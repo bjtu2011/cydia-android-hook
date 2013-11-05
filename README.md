@@ -1,7 +1,7 @@
 CydiaHook
 ==========
 
-### 利用Cydia Substrate SDK 开发，可以HOOK java层或NATIVE层 API接口。
+利用Cydia Substrate SDK 开发，可以HOOK java层或NATIVE层 API接口。
 
 ### 本代码功能
 写代码的初衷是因为有个app，需要保存数据到SD卡上，并且app里面有判断SD挂载的状态。没有SD卡，会造成程序逻辑有问题，很多功能无法正常使用，而我的手机没有装SD卡。
@@ -18,15 +18,15 @@ CydiaHook
 - Eclipse 上安装 Android Substrate SDK，参考：
 http://www.cydiasubstrate.com/id/73e45fe5-4525-4de7-ac14-6016652cc1b8/
 - 手机端去Google Play 下载安装 Cydia Substrate
-- Eclipse 导出本代码，编译后安装到手机。
+- Eclipse 导入本代码，编译后安装到手机。
 - 手机上运行Substrate，界面上点击“Link Substrate Files”，再点击 “Restart System（Soft）”
 - 通过CydiaHook，查看挂载路径和状态。
 
-参考官方的入门教程 VioletExample：
+参考官方的入门教程 VioletExample：<br>
 http://www.cydiasubstrate.com/id/20cf4700-6379-4a14-9bc2-853fde8cc9d1/
 
 以后再研究Cydia substrate的具体工作原理。
 
-遇到问题可以到[筋斗云论坛](http://www.phoneos.org/bbs)提交。
+遇到问题可以到[筋斗云论坛](http://www.phoneos.org/bbs)提交。<br>
 我的Email：cto@phoneos.org
 
