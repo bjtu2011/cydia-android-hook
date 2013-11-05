@@ -1,4 +1,4 @@
-CydiaHook
+### CydiaHook
 ==========
 
 利用Cydia Substrate SDK 开发，可以HOOK java层或NATIVE层 API接口。
@@ -15,7 +15,7 @@ CydiaHook
 ### 准备工作
 
 - ROOT过的手机一部，没有ROOT的，请自行搜索方法。
-- Eclipse 上安装 Android Substrate SDK，参考：
+- Eclipse 上安装 Android Substrate SDK，参考：<br>
 http://www.cydiasubstrate.com/id/73e45fe5-4525-4de7-ac14-6016652cc1b8/
 - 手机端去Google Play 下载安装 Cydia Substrate
 - Eclipse 导入本代码，编译后安装到手机。
